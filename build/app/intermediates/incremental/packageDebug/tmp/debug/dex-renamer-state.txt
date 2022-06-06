@@ -1,0 +1,4 @@
+#Mon Jun 06 16:50:10 NPT 2022
+base.0=/home/sumdahl/StudioProjects/magic-8-ball-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
